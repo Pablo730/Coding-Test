@@ -6,7 +6,7 @@ package d3_9940; //순열1 - 길이 N의 순열이란, 1부터 N까지의 자연
 //에러정리 - 1.ArrayList를 생성해 리스트에 n을 넣을 때 중복검사하는 방향은 시간초과
 //에러정리 - 2.효율을 생각하여 n의 값을 다 받기도 전에 중복검사하여 for문을 break하는 실수를 하였음 
 import java.util.*;
-
+ 
 class Solution{
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
